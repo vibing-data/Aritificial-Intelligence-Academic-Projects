@@ -5,6 +5,7 @@ This project focuses on predicting Airbnb listing prices in Rome using a combina
 📍 **Project Title**: *Airbnb Data Analysis & Price Prediction – Rome*  
 🧑‍🤝‍🧑 **Team Members**: AJ Payzant, Iseet Panja, Rohit Sarna  
 📄 **Report**: [Final Report PDF](./Group_5_Final_Report.pdf)
+👩🏻‍💻 **Code**: [Open in Google Colab](https://colab.research.google.com/drive/1ivmUvfhOQkFe7qZ2pfY7EEvbRfie5j8-)
 
 ---
 
